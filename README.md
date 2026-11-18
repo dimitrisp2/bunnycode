@@ -1,5 +1,7 @@
 # BunnyCode
 
+[![version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fdimitrisp2%2Fbunnycode%2Freleases%2Flatest%2Fdownload%2Frelease.json&query=%24.version&label=version&color=blue)](../../releases/latest) [![build](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fdimitrisp2%2Fbunnycode%2Freleases%2Flatest%2Fdownload%2Frelease.json&query=%24.build&label=build&color=green)](../../releases/latest) [![released](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fdimitrisp2%2Fbunnycode%2Freleases%2Flatest%2Fdownload%2Frelease.json&query=%24.date&label=released&color=orange)](../../releases/latest) [![codename](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fdimitrisp2%2Fbunnycode%2Freleases%2Flatest%2Fdownload%2Frelease.json&query=%24.codename&label=codename&color=purple)](../../releases/latest) [![downloads](https://img.shields.io/github/downloads/dimitrisp2/bunnycode/total?label=downloads&color=brightgreen)](../../releases)
+
 **A desktop home for your AI coding agents.**
 
 BunnyCode puts the coding agent you already use, such as Claude Code, OpenCode, Codex CLI, Gemini CLI or Qwen Code, inside a native app with a proper editor around it. You talk to the agent on one side and see what it changes right away: open files reload as the agent edits them, and the git view shows every change before you commit it.
